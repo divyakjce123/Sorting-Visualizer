@@ -37,7 +37,9 @@ SortingAdventure/
 │   └── utils/                     # Helpers (SoundManager)
 └── README.md
 
-⚙️ PrerequisitesTo run this project, you need:Java Development Kit (JDK): Version 14 or higher (Required for modern switch expressions).Type java -version in your terminal to check.Visual Studio Code (Optional, but recommended) with the Extension Pack for Java.🚀 How to RunOption 1: via VS Code (Recommended)Open the SortingAdventure folder in VS Code.Navigate to src/Main.java.Click the Run (Play) button in the top right corner.Option 2: via Terminal / Command LineNavigate to the src folder and compile all packages:Bash# 1. Navigate to source folder
+
+
+## ⚙️ PrerequisitesTo run this project, you need:Java Development Kit (JDK): Version 14 or higher (Required for modern switch expressions).Type java -version in your terminal to check.Visual Studio Code (Optional, but recommended) with the Extension Pack for Java.🚀 How to RunOption 1: via VS Code (Recommended)Open the SortingAdventure folder in VS Code.Navigate to src/Main.java.Click the Run (Play) button in the top right corner.Option 2: via Terminal / Command LineNavigate to the src folder and compile all packages:Bash# 1. Navigate to source folder
 cd src
 
 # 2. Compile all files
@@ -51,8 +53,8 @@ Spacebar          Toggle Play / Pause
 Right Arrow (→)   Step Forward
 Left Arrow (←)    Step Backward
 
-🧠 Algorithms ImplementedBubble Sort: Simple comparison-based sorting.Insertion Sort: Builds the sorted array one item at a time.Selection Sort: Repeatedly finds the minimum element.Merge Sort: Divide and conquer algorithm (O(n log n)).Quick Sort: Partition-based sorting (Advanced).Heap Sort: Uses a binary heap data structure.Shell Sort: Generalized version of insertion sort.Counting Sort: Integer sorting algorithm (Non-comparison based).
+# 🧠 Algorithms ImplementedBubble Sort: Simple comparison-based sorting.Insertion Sort: Builds the sorted array one item at a time.Selection Sort: Repeatedly finds the minimum element.Merge Sort: Divide and conquer algorithm (O(n log n)).Quick Sort: Partition-based sorting (Advanced).Heap Sort: Uses a binary heap data structure.Shell Sort: Generalized version of insertion sort.Counting Sort: Integer sorting algorithm (Non-comparison based).
 
-🤝 ContributingFeel free to fork this project and submit pull requests. Suggestions for new features (like Pathfinding visualizations) are welcome!
+# 🤝 ContributingFeel free to fork this project and submit pull requests. Suggestions for new features (like Pathfinding visualizations) are welcome!
 
-📜 LicenseThis project is open-source and available for educational purposes.
+# 📜 LicenseThis project is open-source and available for educational purposes.
