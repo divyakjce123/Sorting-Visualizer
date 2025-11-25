@@ -1,6 +1,6 @@
 # 🚀 DSA Game: Sorting Adventure
 
-**Sorting Adventure** is an interactive Java Swing application designed to visualize how sorting algorithms work. It features step-by-step visualization, real-time pseudocode tracking, time complexity analysis, and auditory feedback (sonification) to make learning algorithms intuitive and fun.
+**Sorting Visualizer** is an interactive Java Swing application designed to visualize how sorting algorithms work. It features step-by-step visualization, real-time pseudocode tracking, time complexity analysis, and auditory feedback (sonification) to make learning algorithms intuitive and fun.
 
 ![Project Screenshot](image.png)
 
