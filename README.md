@@ -53,9 +53,12 @@ Spacebar          Toggle Play / Pause
 Right Arrow (→)   Step Forward
 Left Arrow (←)    Step Backward
 
-# 🧠 Algorithms ImplementedBubble Sort: Simple comparison-based sorting.Insertion Sort: Builds the sorted array one item at a time.Selection Sort: Repeatedly finds the minimum element.Merge Sort: Divide and conquer algorithm (O(n log n)).Quick Sort: Partition-based sorting (Advanced).Heap Sort: Uses a binary heap data structure.Shell Sort: Generalized version of insertion sort.Counting Sort: Integer sorting algorithm (Non-comparison based).
+# 🧠 Algorithms 
+ImplementedBubble Sort: Simple comparison-based sorting.Insertion Sort: Builds the sorted array one item at a time.Selection Sort: Repeatedly finds the minimum element.Merge Sort: Divide and conquer algorithm (O(n log n)).Quick Sort: Partition-based sorting (Advanced).Heap Sort: Uses a binary heap data structure.Shell Sort: Generalized version of insertion sort.Counting Sort: Integer sorting algorithm (Non-comparison based).
 
-# 🤝 ContributingFeel free to fork this project and submit pull requests. Suggestions for new features (like Pathfinding visualizations) are welcome!
+# 🤝 Contributing
+Feel free to fork this project and submit pull requests. Suggestions for new features (like Pathfinding visualizations) are welcome!
 
-# 📜 LicenseThis project is open-source and available for educational purposes
+# 📜 License
+This project is open-source and available for educational purposes
 
