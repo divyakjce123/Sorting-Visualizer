@@ -39,7 +39,8 @@ SortingAdventure/
 
 ```
 
-#⚙️ PrerequisitesTo run this project, you need:Java Development Kit (JDK): Version 14 or higher (Required for modern switch expressions).Type java -version in your terminal to check.Visual Studio Code (Optional, but recommended) with the Extension Pack for Java.🚀 How to RunOption 1: via VS Code (Recommended)Open the SortingAdventure folder in VS Code.Navigate to src/Main.java.Click the Run (Play) button in the top right corner.Option 2: via Terminal / Command LineNavigate to the src folder and compile all packages:Bash# 1. Navigate to source folder
+# 1. Prerequisites
+To run this project, you need:Java Development Kit (JDK): Version 14 or higher (Required for modern switch expressions).Type java -version in your terminal to check.Visual Studio Code (Optional, but recommended) with the Extension Pack for Java.🚀 How to RunOption 1: via VS Code (Recommended)Open the SortingAdventure folder in VS Code.Navigate to src/Main.java.Click the Run (Play) button in the top right corner.Option 2: via Terminal / Command LineNavigate to the src folder and compile all packages:Bash# 1. Navigate to source folder
 cd src
 
 # 2. Compile all files
