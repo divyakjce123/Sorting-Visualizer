@@ -45,4 +45,14 @@ javac Main.java algorithms/*.java controller/*.java model/*.java ui/*.java utils
 
 # 3. Run the application
 java Main
-🎮 Keyboard ShortcutsKeyActionSpacebarToggle Play / PauseRight Arrow (→)Step ForwardLeft Arrow (←)Step Backward🧠 Algorithms ImplementedBubble Sort: Simple comparison-based sorting.Insertion Sort: Builds the sorted array one item at a time.Selection Sort: Repeatedly finds the minimum element.Merge Sort: Divide and conquer algorithm (O(n log n)).Quick Sort: Partition-based sorting (Advanced).Heap Sort: Uses a binary heap data structure.Shell Sort: Generalized version of insertion sort.Counting Sort: Integer sorting algorithm (Non-comparison based).🤝 ContributingFeel free to fork this project and submit pull requests. Suggestions for new features (like Pathfinding visualizations) are welcome!📜 LicenseThis project is open-source and available for educational purposes.
+🎮 Keyboard Shortcuts
+Key               Action
+Spacebar          Toggle Play / Pause
+Right Arrow (→)   Step Forward
+Left Arrow (←)    Step Backward
+
+🧠 Algorithms ImplementedBubble Sort: Simple comparison-based sorting.Insertion Sort: Builds the sorted array one item at a time.Selection Sort: Repeatedly finds the minimum element.Merge Sort: Divide and conquer algorithm (O(n log n)).Quick Sort: Partition-based sorting (Advanced).Heap Sort: Uses a binary heap data structure.Shell Sort: Generalized version of insertion sort.Counting Sort: Integer sorting algorithm (Non-comparison based).
+
+🤝 ContributingFeel free to fork this project and submit pull requests. Suggestions for new features (like Pathfinding visualizations) are welcome!
+
+📜 LicenseThis project is open-source and available for educational purposes.
