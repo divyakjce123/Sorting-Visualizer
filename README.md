@@ -48,6 +48,7 @@ javac Main.java algorithms/*.java controller/*.java model/*.java ui/*.java utils
 
 # 3. Run the application
 java Main
+
 🎮 Keyboard Shortcuts
 Key               Action
 Spacebar          Toggle Play / Pause
